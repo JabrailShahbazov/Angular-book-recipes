@@ -24,3 +24,4 @@ export class UserModule {
     return this._token;
   }
 }
+
